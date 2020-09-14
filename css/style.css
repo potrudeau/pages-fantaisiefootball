@@ -1,0 +1,16 @@
+body {
+    padding-top: 5rem;
+}
+
+.starter-template {
+    text-align: center;
+}
+
+.bg-dark
+{
+    background-color: #0D8F46 !important; 
+}
+
+.container a {
+    color: #0D8F46 !important; 
+}
