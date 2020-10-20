@@ -14,3 +14,23 @@ body {
 .container a {
     color: #0D8F46 !important; 
 }
+
+.badge-champion {
+    color: #fff;
+    background-color: #EABE53;
+}
+
+.badge-2eme {
+    color: #fff;
+    background-color: #ACADAF;
+}
+
+.badge-3eme {
+    color: #fff;
+    background-color: #E98961;
+}
+
+.badge-4eme {
+    color: #fff;
+    background-color: #224087;
+}
